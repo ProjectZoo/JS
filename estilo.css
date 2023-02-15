@@ -1,0 +1,39 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background-color: #00BFFF;
+}
+header{
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+    top: 0;
+  }
+h1{
+    margin-top: 100px;
+    margin-bottom: 150px;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+    font-family: 'UbuntuMono-Bold.ttf',cursive;
+   
+}
+h2{
+    margin-top: 100px;
+    margin-bottom: 150px;
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+p{
+    margin-top: 100px;
+    margin-bottom: 150px;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: justify;
+    font-family: 'UbuntuMono-Bold.ttf',cursive;
+   
+}
+
